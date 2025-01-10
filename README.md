@@ -2,6 +2,10 @@
 
 The goal of this project is to create a contract for DHK members to claim a subdomain on ENS. The contract will be deployed Optimism L2.
 
+## Flow
+
+![image](https://github.com/user-attachments/assets/54f52907-96a9-4651-9a2d-9a5dc51c66dc)
+
 
 ## Who can claim a subdomain?
 
@@ -85,5 +89,5 @@ ReverseRegistrar: 0xa58E81fe9b61B5c3fE2AFD33CF304c454AbFc7Cb
 
 ## References
 
-https://github.com/ensdomains/subdomain-registrar
-https://github.com/ensdomains/ens-contracts/blob/5421b5689e695531dc9739f0ad861839bdd231cb/tasks/seed.ts#L12
+- https://github.com/ensdomains/subdomain-registrar
+- https://github.com/ensdomains/ens-contracts/blob/5421b5689e695531dc9739f0ad861839bdd231cb/tasks/seed.ts#L12
